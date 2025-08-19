@@ -1,19 +1,15 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "Auth App",
+    "slug": "react-native-tailwind-redux-toolkit-setup",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/app.png",
-    "scheme": "myapp",
+    "scheme": "reactnativetailwindreduxtoolkitsetup",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.roushan0209.myapp",
-      "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
-      }
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
@@ -21,7 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.roushan0209.myapp"
+      "package": "com.roushan0209.reactnativetailwindreduxtoolkitsetup"
     },
     "web": {
       "bundler": "metro",
@@ -46,7 +42,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "ff94efd6-751d-4e14-abd2-fa9f3f8edcff"
+        "projectId": "b8912fad-9fe6-44be-a6b1-710d0f5fb238"
       }
     }
   }
